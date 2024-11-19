@@ -1,4 +1,4 @@
-Reads an analog input and prints the voltage on Liquid Crystal Display.
+Reads an analog input and prints the voltage on Liquid Crystal Display(LCD).
 
 LCD Pins:
 Vss - GND
